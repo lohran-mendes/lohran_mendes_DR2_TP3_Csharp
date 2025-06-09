@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\INFNET\trabalhos\lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3\bin\Debug\net9.0\lohran_mendes_DR3_TP3.exe
+C:\Users\Asus\Desktop\INFNET\trabalhos\lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3\bin\Debug\net9.0\lohran_mendes_DR3_TP3.deps.json
+C:\Users\Asus\Desktop\INFNET\trabalhos\lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3\bin\Debug\net9.0\lohran_mendes_DR3_TP3.runtimeconfig.json
+C:\Users\Asus\Desktop\INFNET\trabalhos\lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3\bin\Debug\net9.0\lohran_mendes_DR3_TP3.dll
+C:\Users\Asus\Desktop\INFNET\trabalhos\lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3\bin\Debug\net9.0\lohran_mendes_DR3_TP3.pdb
+C:\Users\Asus\Desktop\INFNET\trabalhos\lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3\obj\Debug\net9.0\lohran_mendes_DR3_TP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\INFNET\trabalhos\lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3\obj\Debug\net9.0\lohran_mendes_DR3_TP3.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\INFNET\trabalhos\lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3\obj\Debug\net9.0\lohran_mendes_DR3_TP3.AssemblyInfo.cs
+C:\Users\Asus\Desktop\INFNET\trabalhos\lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3\obj\Debug\net9.0\lohran_mendes_DR3_TP3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\INFNET\trabalhos\lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3\obj\Debug\net9.0\lohran_mendes_DR3_TP3.dll
+C:\Users\Asus\Desktop\INFNET\trabalhos\lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3\obj\Debug\net9.0\refint\lohran_mendes_DR3_TP3.dll
+C:\Users\Asus\Desktop\INFNET\trabalhos\lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3\obj\Debug\net9.0\lohran_mendes_DR3_TP3.pdb
+C:\Users\Asus\Desktop\INFNET\trabalhos\lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3\obj\Debug\net9.0\lohran_mendes_DR3_TP3.genruntimeconfig.cache
+C:\Users\Asus\Desktop\INFNET\trabalhos\lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3\obj\Debug\net9.0\ref\lohran_mendes_DR3_TP3.dll

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lohran_mendes_DR3_TP3", "lohran_mendes_DR3_TP3\lohran_mendes_DR3_TP3.csproj", "{AB0C966F-651E-4F0D-8C6E-304CCEA70043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0C966F-651E-4F0D-8C6E-304CCEA70043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0C966F-651E-4F0D-8C6E-304CCEA70043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0C966F-651E-4F0D-8C6E-304CCEA70043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0C966F-651E-4F0D-8C6E-304CCEA70043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
