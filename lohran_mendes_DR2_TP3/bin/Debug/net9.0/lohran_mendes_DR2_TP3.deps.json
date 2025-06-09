@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "lohran_mendes_DR2_TP3/1.0.0": {
+        "runtime": {
+          "lohran_mendes_DR2_TP3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lohran_mendes_DR2_TP3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
